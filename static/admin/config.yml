@@ -5,6 +5,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+site_url: https://blog.vitau.mx
+publish_mode: editorial_workflow
+logo_url: https://vitau.mx/static/media/logo.ede74271.svg
+
 collections:
   - name: "blog"
     label: "Blog"
