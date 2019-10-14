@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Blog Vitau
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Blog Vitau
+subheading: Salud, nutrición, hábitos, cuidado personal y más maneras de ser la mejor versión de nosotros mismos.
 mainpitch:
   title: Why Kaldi
   description: >
