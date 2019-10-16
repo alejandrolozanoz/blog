@@ -1,14 +1,17 @@
 ---
 templateKey: blog-post
-title: Cáncer de Mama
+title: Cáncer de Mam
 date: 2017-10-10T12:00:00.000Z
+description: >-
+  Brewing with a Chemex probably seems like a complicated, time-consuming
+  ordeal, but once you get used to the process, it becomes a soothing ritual
+  that's worth the effort every time.
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - cancer
   - cancer de mama
-  - 
+  - null
 ---
 ![chemex](/img/chemex.jpg)
 
