@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Cáncer de Mam
+title: Cáncer de Mama
 date: 2017-10-10T12:00:00.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
