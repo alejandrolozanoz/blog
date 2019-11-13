@@ -7,7 +7,7 @@ description: >-
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
 featuredpost: false
-featuredimage: /img/logo.png
+featuredimage: /img/chemex.jpg
 tags:
   - cancer
   - cancer de mama
