@@ -1,0 +1,13 @@
+:root {
+  --text-scale-000: calc(var(--typeScale-unit) * 0.75);
+  --text-scale-00: calc(var(--typeScale-unit) * 0.875);
+  --text-scale-0: calc(var(--typeScale-unit) * 0.75);
+  --text-scale-1: var(--typeScale-unit);
+  --text-scale-2: calc(var(--typeScale-unit) * 1.25);
+  --text-scale-3: calc(var(--typeScale-unit) * 1.5);
+  --text-scale-4: calc(var(--typeScale-unit) * 2.25);
+  --text-scale-5: calc(var(--typeScale-unit) * 3);
+  --text-scale-6: calc(var(--typeScale-unit) * 3.75);
+  --text-scale-7: calc(var(--typeScale-unit) * 4);
+  --text-scale-8: calc(var(--typeScale-unit) * 4.5);
+}
