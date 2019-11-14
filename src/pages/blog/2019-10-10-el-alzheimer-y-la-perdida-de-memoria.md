@@ -1,15 +1,20 @@
 ---
 templateKey: blog-post
 title: El Alzheimer y la Pérdida de Memoria
+url: test-url
 date: 2017-10-10T12:00:00.000Z
+description: >-
+  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
+  tasters, has been revised for the first time this year.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
+
+![test](/img/chemex.jpg "test image")
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
