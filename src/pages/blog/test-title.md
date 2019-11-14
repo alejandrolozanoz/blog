@@ -5,7 +5,7 @@ url: tst-title
 date: 2019-11-20T20:50:18.979Z
 description: Description test
 featuredpost: false
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/jumbotron.jpg
 tags:
   - test
 ---
