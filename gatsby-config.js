@@ -22,7 +22,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Open Sans']
+          families: ['Open Sans:300,400,400i,700']
         },
         custom: {
           families: ['Galano Grotesque Alt']
