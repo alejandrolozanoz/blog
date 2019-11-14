@@ -69,9 +69,6 @@ const Navbar = class extends React.Component {
               <a className="navbar-item" href="https://vitau.mx/productos">
                 Tienda
               </a>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/vitaumedical">
