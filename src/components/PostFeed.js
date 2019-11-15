@@ -7,9 +7,14 @@ export default function PostFeed() {
       <h3 className='title'>Artículos más recientes</h3>
 
       {usePostsInfo().map((postInfo, key) => {
-        const { title } = postInfo.node.frontmatter
+        const { title, description } = postInfo.node.frontmatter
 
-        return <p key={key}>{title}</p>
+        return (
+          <article className='postPreview'>
+            <h4 key={key}>{title}</h4>
+            <p>{description}</p>
+          </article>
+        )
       })}
     </section>
   )

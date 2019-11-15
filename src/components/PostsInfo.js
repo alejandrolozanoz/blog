@@ -11,6 +11,7 @@ const usePostsInfo = () => {
               frontmatter {
                 title
                 featuredpost
+                description
               }
             }
           }

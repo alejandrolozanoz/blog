@@ -3,6 +3,7 @@
 .mainHero {
   position: relative;
   @include wrapped(1184px);
+  padding-top: 78px;
   min-height: 80vh;
   display: flex;
   align-items: center;
