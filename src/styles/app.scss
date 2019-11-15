@@ -1,13 +1,16 @@
-@import './settings/normalize.scss';
+@import './settings/normalize';
 @import './settings/fonts';
-@import './settings/colors.scss';
-@import './settings/spacing.scss';
-@import './settings/typeScale.scss';
-@import './settings/settings.scss';
+@import './settings/colors';
+@import './settings/spacing';
+@import './settings/typeScale';
+@import './settings/settings';
 
-@import './globals/body.scss';
-@import './globals/typography.scss';
+@import './globals/body';
+@import './globals/typography';
 
-@import './components/header.scss';
-@import './components/mainNav.scss';
-@import './components/main.scss';
+@import './components/header';
+@import './components/mainNav';
+@import './components/main';
+@import './components/footer';
+@import './components/link';
+@import './components/socialMedia';

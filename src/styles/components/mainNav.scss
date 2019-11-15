@@ -4,11 +4,11 @@
   align-items: center;
 
   &-link,
-  &-socialIcon {
+  .socialMedia-icon {
     color: var(--brand-02);
     text-decoration: none;
     transition: 200ms all ease-in-out;
-    opacity: .8;
+    opacity: 0.8;
   }
 
   &-link {
@@ -21,26 +21,8 @@
       color: var(--brand-01);
       opacity: 1;
     }
-    
+
     & + * {
-      margin-left: 2rem;
-    }
-
-  }
-
-  &-socialIcon {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    font-size: 1.5rem;
-    color: var(--brand-02);
-
-    &:hover {
-      color: var(--brand-01);
-      opacity: 1;
-    }
-
-    & + & {
       margin-left: 2rem;
     }
   }

@@ -1,6 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Header from '../components/Header'
+import Footer from '../components/Footer'
 import useSiteMetadata from '../components/SiteMetadata'
 
 import '../styles/app.scss'
@@ -19,6 +20,8 @@ export default function HomeLayout({ children }) {
       <Header />
 
       {children}
+
+      <Footer />
     </>
   )
 }
