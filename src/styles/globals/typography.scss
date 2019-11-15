@@ -17,7 +17,13 @@ h6 {
 
 .title {
   font-family: var(--font-primary);
-  font-size: 64px;
+  color: var(--gray-100);
+
+  &--big {
+    font-size: 64px;
+    line-height: 52px;
+    letter-spacing: -2px;
+  }
 
   &--small {
     font-size: var(--text-scale-000);
@@ -26,4 +32,11 @@ h6 {
     text-transform: uppercase;
     letter-spacing: 6px;
   }
+}
+
+.subtitle {
+  font-weight: 400;
+  color: var(--gray-70);
+  font-size: var(--text-scale-2);
+  line-height: 1.5;
 }

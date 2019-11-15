@@ -1,0 +1,6 @@
+@import '../settings/mixins.scss';
+
+.postFeed {
+  @include wrapped(1184px);
+  padding-bottom: 6rem;
+}
