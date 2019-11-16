@@ -22,7 +22,10 @@ export default function Footer() {
 
           <span className='title--small'>Llámanos</span>
 
-          <a className='footer-tel' href='#tel'>
+          <a
+            className='footer-tel'
+            href='https://wa.me/525550180585?text=Estoy%20interesado,%20me%20podrían%20dar%20más%20información'
+          >
             (55) 5018 0585
           </a>
         </div>

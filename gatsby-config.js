@@ -27,7 +27,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Open Sans:300,400,400i,700'],
+          families: ['Open Sans:300,400,400i,700,800'],
         },
         custom: {
           families: ['Galano Grotesque Alt'],
@@ -47,13 +47,6 @@ module.exports = {
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/img`,
-        name: 'images',
       },
     },
     'gatsby-plugin-sharp',
