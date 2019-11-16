@@ -11,12 +11,8 @@ tags:
 ---
 # Text Description
 
-
-
 lorem djsjjsjsjdjd
 
 ## title dos
-
-
 
 ![jeje](/img/products-full-width.jpg "tete")
