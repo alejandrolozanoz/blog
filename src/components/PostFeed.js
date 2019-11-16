@@ -1,5 +1,5 @@
 import React from 'react'
-import usePostsInfo from './UsePostsInfo'
+import usePostsPreviews from './UsePostsPreviews'
 import PostPreview from '../components/PostPreview'
 
 export default function PostFeed() {
@@ -8,7 +8,7 @@ export default function PostFeed() {
       <h3 className='title'>Artículos más recientes</h3>
 
       <div className='postFeed-content'>
-        {usePostsInfo().map((postInfo, key) => {
+        {usePostsPreviews().map((postInfo, key) => {
           const {
             fields: { slug },
             frontmatter: { title, tags, featuredimage },

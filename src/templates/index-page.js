@@ -2,12 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
-import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
-
 export const IndexPageTemplate = ({ title, description }) => (
   <div>
-    <div className="full-width-image margin-top-0">
+    <div className='full-width-image margin-top-0'>
       <div
         style={{
           display: 'flex',
@@ -19,7 +16,7 @@ export const IndexPageTemplate = ({ title, description }) => (
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+          className='has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen'
           style={{
             boxShadow: '00aaff 0.5rem 0px 0px, 00aaff -0.5rem 0px 0px',
             backgroundColor: '00aaff',
@@ -32,11 +29,9 @@ export const IndexPageTemplate = ({ title, description }) => (
         </h1>
       </div>
     </div>
-    <section className="section">
-      <div className="container">
-        <div className="content">
-          <BlogRoll />
-        </div>
+    <section className='section'>
+      <div className='container'>
+        <div className='content'></div>
       </div>
     </section>
   </div>
@@ -51,12 +46,10 @@ const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
-    <Layout>
-      <IndexPageTemplate
-        title={frontmatter.title}
-        description={frontmatter.description}
-      />
-    </Layout>
+    <IndexPageTemplate
+      title={frontmatter.title}
+      description={frontmatter.description}
+    />
   )
 }
 
