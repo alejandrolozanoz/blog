@@ -1,0 +1,25 @@
+@import '../settings/mixins.scss';
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  @include wrapped(1184px);
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  background-color: white;
+  z-index: 100;
+  box-shadow: var(--shadow);
+}
+
+.header-logo {
+  width: 150px;
+  display: flex;
+
+  img {
+    width: 100%;
+  }
+}

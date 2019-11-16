@@ -1,0 +1,19 @@
+@import './settings/normalize';
+@import './settings/fonts';
+@import './settings/colors';
+@import './settings/spacing';
+@import './settings/typeScale';
+@import './settings/settings';
+
+@import './globals/body';
+@import './globals/typography';
+
+@import './components/header';
+@import './components/mainNav';
+@import './components/mainHero';
+@import './components/footer';
+@import './components/link';
+@import './components/socialMedia';
+@import './components/postFeed';
+@import './components/postPreview';
+@import './components/tag';

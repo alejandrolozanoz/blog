@@ -1,0 +1,15 @@
+body {
+  position: relative;
+  font-family: var(--font-secondary);
+  font-size: var(--typeScale-unit);
+  color: var(--gray-100);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}

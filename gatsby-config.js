@@ -1,4 +1,8 @@
-const postcssPresetEnv = require('postcss-preset-env');
+const postcssPresetEnv = require('postcss-preset-env')
+
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
 
 module.exports = {
   siteMetadata: {
@@ -14,20 +18,21 @@ module.exports = {
         postCssPlugins: [
           postcssPresetEnv({
             stage: 4,
-            browsers: 'last 2 versions' 
-          })
-        ]
-      }
-    }, {
+            browsers: 'last 2 versions',
+          }),
+        ],
+      },
+    },
+    {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Open Sans']
+          families: ['Open Sans:300,400,400i,700,800'],
         },
         custom: {
-          families: ['Galano Grotesque Alt']
-        }
-      }
+          families: ['Galano Grotesque Alt'],
+        },
+      },
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -42,13 +47,6 @@ module.exports = {
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages',
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/src/img`,
-        name: 'images',
       },
     },
     'gatsby-plugin-sharp',

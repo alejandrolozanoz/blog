@@ -1,0 +1,29 @@
+// Wrapper without another div
+@mixin wrapped($width) {
+  padding-right: calc(50% - (#{$width} / 2));
+  padding-left: calc(50% - (#{$width} / 2));
+}
+
+// Wrapper just right side
+@mixin wrapped-right($width) {
+  padding-right: calc(50% - (#{$width} / 2));
+}
+
+// Wrapper just left side
+@mixin wrapped-left($width) {
+  padding-left: calc(50% - (#{$width} / 2));
+}
+
+@mixin btn-reset {
+  padding: 0;
+  margin: 0;
+  appearance: none;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+@mixin link-reset {
+  text-decoration: none;
+  cursor: pointer;
+}
