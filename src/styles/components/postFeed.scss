@@ -3,16 +3,21 @@
 .postFeed {
   @include wrapped(1184px);
   padding-bottom: 6rem;
+  @include mobile-wrapped;
 }
 
 .postFeed-content {
   display: grid;
   grid-gap: 1rem;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr;
   margin-top: 2rem;
 
-  .postPreview:nth-child(1),
-  .postPreview:nth-child(n + 4) {
-    grid-column-end: span 2;
+  @include above(1000px) {
+    grid-template-columns: repeat(3, 1fr);
+
+    .postPreview:nth-child(1),
+    .postPreview:nth-child(n + 4) {
+      grid-column-end: span 2;
+    }
   }
 }

@@ -37,6 +37,7 @@
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.11.0",
     "react-helmet": "^5.2.1",
+    "rupture-sass": "^0.3.0",
     "uuid": "^3.3.3"
   },
   "keywords": [

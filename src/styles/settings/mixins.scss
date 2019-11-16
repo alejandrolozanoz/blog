@@ -27,3 +27,9 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+@mixin mobile-wrapped {
+  @include below(1240px) {
+    @include wrapped(90%);
+  }
+}

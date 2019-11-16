@@ -11,8 +11,9 @@
   display: flex;
   align-items: center;
   background-color: white;
-  z-index: 100;
+  z-index: 900;
   box-shadow: var(--shadow);
+  @include mobile-wrapped;
 }
 
 .header-logo {

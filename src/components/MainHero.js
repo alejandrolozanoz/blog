@@ -12,8 +12,6 @@ export default function MainHero() {
           mejor versión de nosotros mismos.
         </h2>
       </div>
-
-      <div className='mainHero-bg-1'></div>
     </main>
   )
 }

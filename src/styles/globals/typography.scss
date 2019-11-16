@@ -23,6 +23,10 @@ h6 {
     font-size: 64px;
     line-height: 52px;
     letter-spacing: -2px;
+
+    @include below(1000px) {
+      line-height: 1;
+    }
   }
 
   &--small {
