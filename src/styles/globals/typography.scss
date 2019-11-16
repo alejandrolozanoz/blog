@@ -16,17 +16,14 @@ h6 {
 }
 
 .title {
+  font-size: var(--text-scale-4);
   font-family: var(--font-primary);
   color: var(--gray-100);
 
   &--big {
     font-size: 64px;
-    line-height: 52px;
-    letter-spacing: -2px;
-
-    @include below(1000px) {
-      line-height: 1;
-    }
+    letter-spacing: -1px;
+    line-height: 1;
   }
 
   &--small {
