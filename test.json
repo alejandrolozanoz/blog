@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":18,"head":"faaf1fd1f307856abd2d328688fdd34e105ac86c"},"user":"Alejandro Lozano Zárate","status":"draft","branch":"cms/test","collection":"blog","title":"Test","description":"hola este es un test","objects":{"entry":{"path":"src/pages/blog/test.md","sha":"519d51b3413975b509beabf73250a2b674eecc2c"},"files":[]},"timeStamp":"2019-11-19T16:17:20.784Z"}
