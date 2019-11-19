@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Cáncer de Mamá
+title: Cáncer de Mama
 url: cancer-de-mama
 date: 2017-10-10T12:00:00.000Z
 description: >-
@@ -11,14 +11,14 @@ featuredpost: false
 featuredimage: /img/products-grid2.jpg
 tags:
   - cancer
-  - cancer de mama
-  - null
 ---
 ## ¿QUÉ ES EL CÁNCER DE MAMA?
 
 El cáncer de mama, es la principal causa de muerte por tumores malignos en mujeres en México. Es causada por el crecimiento anormal y descontrolado de células, en este caso de la glándula mamaria, formando bultos o tumores principalmente en los conductos que llevan la leche hacia el pezón o en las glándulas que producen la leche y que pueden invadir a otros tejidos (metástasis). 
 
-\## ¿CÓMO PUEDO PREVENIR EL CÁNCER DE MAMA?
+## ¿CÓMO PUEDO PREVENIR EL CÁNCER DE MAMA?
+
+
 El cáncer de mama es una enfermedad multifactorial, lo que significa que el desarrollo de la enfermedad depende de la interacción de diversos factores de riesgo y no de uno solo.
 Factores de riesgo no modificables:
 
@@ -39,7 +39,7 @@ Factores de riesgo no modificables:
 
 Los factores modificables, se deben evitar a través de cambios en el estilo de vida para prevenir la enfermedad. Se recomienda además realizarse la mamografía, que es una radiografía de las glándulas mamarias y se debe realizar anualmente a partir de los 40 años en toda la población, o antes si se tiene múltiples factores de riesgo.
 
-\## ¿CUÁLES SON LOS SIGNOS DE ALARMA?
+## ¿CUÁLES SON LOS SIGNOS DE ALARMA?
 
 * Bulto o engrosamiento.
 * Cambio de tamaño, forma o aspecto de una mama.
