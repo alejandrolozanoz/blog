@@ -1,9 +1,9 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
-const usePostsInfo = () => {
+const usePostsPreviews = () => {
   const { allMarkdownRemark } = useStaticQuery(
     graphql`
-      query ALL_MARKDOWN_QUERY {
+      query GET_POSTS_PREVIEWS {
         allMarkdownRemark(sort: { order: DESC, fields: frontmatter___date }) {
           edges {
             node {
@@ -34,4 +34,4 @@ const usePostsInfo = () => {
   return allMarkdownRemark.edges
 }
 
-export default usePostsInfo
+export default usePostsPreviews

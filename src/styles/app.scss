@@ -1,9 +1,12 @@
+@import '~rupture-sass/rupture';
+
 @import './settings/normalize';
 @import './settings/fonts';
 @import './settings/colors';
 @import './settings/spacing';
 @import './settings/typeScale';
 @import './settings/settings';
+@import './settings/mixins.scss';
 
 @import './globals/body';
 @import './globals/typography';
@@ -17,3 +20,4 @@
 @import './components/postFeed';
 @import './components/postPreview';
 @import './components/tag';
+@import './components/blogPost';

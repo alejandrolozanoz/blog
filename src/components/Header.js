@@ -13,13 +13,13 @@ export default function Header() {
         <Link to='/' className='mainNav-link' activeClassName='isActive'>
           Inicio
         </Link>
-        <Link
+        {/* <Link
           to='/categorias'
           className='mainNav-link'
           activeClassName='isActive'
         >
           Categorías
-        </Link>
+        </Link> */}
 
         <SocialMedia />
       </nav>

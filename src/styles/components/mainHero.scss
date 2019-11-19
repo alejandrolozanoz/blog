@@ -1,29 +1,30 @@
-@import '../settings/mixins';
-
 .mainHero {
   position: relative;
-  @include wrapped(1184px);
-  padding-top: 78px;
-  min-height: 80vh;
+  height: 90vh;
   display: flex;
   align-items: center;
+  @include wrapped(1184px);
+  padding-top: 80px;
+  overflow: hidden;
+  @include mobile-wrapped;
 
-  &-content {
-    max-width: 590px;
-  }
-
-  .subtitle {
-    margin-top: 1.5rem;
-  }
-
-  &-bg-1 {
+  &::before {
+    content: '';
     position: absolute;
-    left: 75%;
     width: 420px;
     height: 420px;
     background-color: var(--brand-02);
     border-radius: 1rem;
     z-index: -100;
+    left: 70%;
     transform: rotate(-19deg);
+  }
+
+  &-content {
+    max-width: 610px;
+  }
+
+  .subtitle {
+    margin-top: 1.5rem;
   }
 }

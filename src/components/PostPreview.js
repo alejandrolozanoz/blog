@@ -17,9 +17,6 @@ export default function PostPreview(props) {
     <Link className='postPreview' to={url}>
       <article className='postPreview-content' style={styles}>
         <div className='tags'>
-          {/* {tags.map(tag => (
-            <span className='tag'>{tag}</span>
-          ))} */}
           <span className='tag'>{tags[0]}</span>
         </div>
 
