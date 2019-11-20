@@ -3,10 +3,11 @@ templateKey: blog-post
 title: ¡Examínate! El cáncer de mama está en tus manos.
 url: cancer-de-mama
 date: 2019-11-20T07:00:00.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: >
+  El cáncer de mama, es la principal causa de muerte por tumores malignos en
+  mujeres en México. Pequeñas acciones como llevar una buena alimentación, hacer
+  ejercicio con regularidad ayudan a prevenir no solo el cáncer sino muchas
+  otras enfermedades. 
 featuredpost: false
 featuredimage: /img/yoann-boyer-krhhsret_fq-unsplash.jpg
 tags:
