@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Cáncer de Mama
+title: ¡Examínate! El cáncer de mama está en tus manos.
 url: cancer-de-mama
-date: 2017-10-10T12:00:00.000Z
+date: 2019-11-20T07:00:00.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
@@ -12,43 +12,34 @@ featuredimage: /img/products-grid2.jpg
 tags:
   - cancer
 ---
-## ¿QUÉ ES EL CÁNCER DE MAMA?
+El cáncer de mama, es la principal causa de muerte por tumores malignos en mujeres en México. Es causada por crecimiento anormal en las glándulas mamarias, crea bultos o tumores, principalmente en los conductos que llevan la leche hacia el pezón, y que pueden invadir a otros tejidos haciendo metástasis. 
 
-El cáncer de mama, es la principal causa de muerte por tumores malignos en mujeres en México. Es causada por el crecimiento anormal y descontrolado de células, en este caso de la glándula mamaria, formando bultos o tumores principalmente en los conductos que llevan la leche hacia el pezón o en las glándulas que producen la leche y que pueden invadir a otros tejidos (metástasis). 
+Este tipo de cáncer se genera por varios factores, entre ellos:
 
-## ¿CÓMO PUEDO PREVENIR EL CÁNCER DE MAMA?
-
-
-El cáncer de mama es una enfermedad multifactorial, lo que significa que el desarrollo de la enfermedad depende de la interacción de diversos factores de riesgo y no de uno solo.
-Factores de riesgo no modificables:
+## Factores de riesgo no modificables:
 
 * Ser mujer.
-* La edad, el riesgo aumenta a partir de los 40 años.
-* El componente genético.
-* Antecedentes heredofamiliares.
-* Haber tenido la primera menstruación antes de los 12 años de edad.
-* Tener la última menstruación después de los 55 años de edad.
-* Factores de riesgo modificables:
+* Genética.
+* Herencia.
+* Edad, más riesgo a partir de los 40 años. 
+* Comienzo de período a edad temprana. (12 años de edad)
+* Menopausia después de los 55 años.
+
+
+
+## Factores de riesgo modificables:
+
 * Obesidad y sedentarismo.
-* El consumo de tabaco o la ingesta de alcohol.
-* Exposición a radiación en el pecho.
+* El consumo de tabaco y/o alcohol.
+* Radiación en el pecho.
 * Usar anticonceptivos orales por más de 5 años.
-* Utilizar reemplazo hormonal para el tratamiento de la menopausia.
-* No tener hijos o tener el primero después de los 30 años de edad.
-* No haber amamantado, entre otros.
+* Tratamiento hormonal para menopausia.
+* No tener hijos o tener el primero después de los 30 años de edad, así como también no haber amamantado, entre otros.
 
-Los factores modificables, se deben evitar a través de cambios en el estilo de vida para prevenir la enfermedad. Se recomienda además realizarse la mamografía, que es una radiografía de las glándulas mamarias y se debe realizar anualmente a partir de los 40 años en toda la población, o antes si se tiene múltiples factores de riesgo.
+![](/img/brooke-cagle-qj1j4hodnti-unsplash.jpg)
 
-## ¿CUÁLES SON LOS SIGNOS DE ALARMA?
+Las hormonas son sumamente importantes en el desarrollo de esta enfermedad, es por eso que se mencionan varios factores que tienen que ver con el período femenino y embarazo. 
 
-* Bulto o engrosamiento.
-* Cambio de tamaño, forma o aspecto de una mama.
-* Cambios en la piel, formación de hoyuelos como piel de naranja.
-* La inversión del pezón.
-* Desprendimiento de piel, formación de costras y pigmentación en piel alrededor de pezón o mama.
+Pequeñas acciones como llevar una buena alimentación, hacer ejercicio con regularidad y evitar el consumo de sustancias nocivas pueden resultar en cambios notables en la salud y ayudan a prevenir no solo el cáncer sino muchas otras enfermedades. 
 
-Toma acción, realízate un chequeo de mama, puedes generar cita en mirecetadigital.com, donde puedes agendar directamente con el doctor de tu elección en la plataforma. 
-
-Tus medicinas pueden ser adquiridas de igual manera en la sección de farmacia, selecciona Vitau. Puedes ordenar tus productos en la página, recibirlas hasta la puerta de tu casa y si cuentas con seguro de gastos médicos mayores te ayuda con el trámite de reembolso. 
-
-La autoexploración periódica es fundamental para tomar conciencia sobre el cáncer de mama. Nadie conoce mejor tu cuerpo que tú, si notas algún cambio, bultos o signos inusuales en tus mamas, busca de inmediato a tu médico. Tomarse un par de minutos para realizar este ejercicio de vez en cuando, puede salvar tu vida ya que la detección oportuna del cáncer es factor de buen pronóstico para la evolución de la enfermedad.
+##
