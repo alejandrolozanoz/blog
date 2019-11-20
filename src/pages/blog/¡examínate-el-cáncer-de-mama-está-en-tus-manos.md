@@ -16,7 +16,11 @@ tags:
 ---
 ## ¿Qué es el Cáncer de Mama?
 
-El cáncer de mama, es la principal causa de muerte por tumores malignos en mujeres en México. Es causada por crecimiento anormal en las glándulas mamarias, crea bultos o tumores, principalmente en los conductos que llevan la leche hacia el pezón, y que pueden invadir a otros tejidos haciendo metástasis. 
+El cáncer de mama, es la principal causa de muerte por tumores malignos en mujeres en México. \
+\
+Es causada por crecimiento anormal en las glándulas mamarias, crea bultos \
+o tumores, principalmente en los conductos que llevan la leche hacia el pezón, \
+y que pueden invadir a otros tejidos haciendo metástasis. 
 
 Este tipo de cáncer se genera por varios factores, entre ellos:
 
@@ -29,8 +33,6 @@ Este tipo de cáncer se genera por varios factores, entre ellos:
 * Comienzo de período a edad temprana. (12 años de edad)
 * Menopausia después de los 55 años.
 
-
-
 ## Factores de riesgo modificables:
 
 * Obesidad y sedentarismo.
@@ -38,8 +40,13 @@ Este tipo de cáncer se genera por varios factores, entre ellos:
 * Radiación en el pecho.
 * Usar anticonceptivos orales por más de 5 años.
 * Tratamiento hormonal para menopausia.
-* No tener hijos o tener el primero después de los 30 años de edad, así como también no haber amamantado, entre otros.
+* No tener hijos o tener el primero después de los 30 años de edad, \
+  así como también no haber amamantado, entre otros.
 
-Las hormonas son sumamente importantes en el desarrollo de esta enfermedad, es por eso que se mencionan varios factores que tienen que ver con el período femenino y embarazo. 
+Las hormonas son sumamente importantes en el desarrollo \
+de esta enfermedad, es por eso que se mencionan varios factores \
+que tienen que ver con el período femenino y embarazo. 
 
-Pequeñas acciones como llevar una buena alimentación, hacer ejercicio con regularidad y evitar el consumo de sustancias nocivas pueden resultar en cambios notables en la salud y ayudan a prevenir no solo el cáncer sino muchas otras enfermedades.
+Pequeñas acciones como llevar una buena alimentación, hacer ejercicio \
+con regularidad y evitar el consumo de sustancias nocivas pueden resultar \
+en cambios notables en la salud y ayudan a prevenir no solo el cáncer sino muchas otras enfermedades.
