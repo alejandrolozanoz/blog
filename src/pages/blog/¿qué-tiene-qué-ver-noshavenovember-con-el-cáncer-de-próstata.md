@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: '¿Qué tiene qué ver #NoShaveNovember con el cáncer de próstata?'
+title: '¿#NoShaveNovember?'
 url: no-shave-november
 date: 2019-11-20T19:14:00.000Z
 description: >
