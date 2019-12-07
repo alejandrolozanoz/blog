@@ -10,7 +10,7 @@ description: >-
   afecta la salud de las personas causandoles enfermedades cardiacas, problemas
   respiratorios, cánceres del pulmón. 
 featuredpost: false
-featuredimage: /img/4dedic_story-dark-copy.png
+featuredimage: /img/shutterstock_1513189952.jpg
 tags:
   - salud
 ---
@@ -20,4 +20,6 @@ Los grupos más vulnerables de personas son los niños, ancianos y familias con 
 
 ## 
 
-![](/img/medioambiente.png)
+![](/img/mailingmedio.png)
+
+![](/img/mailingmedio.png)
