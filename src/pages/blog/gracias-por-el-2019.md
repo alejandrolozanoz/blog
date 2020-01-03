@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Gracias por el 2019
 url: gracias-por-el-2019
-date: 2019-11-20T19:14:00.000Z
+date: 2020-01-03T19:00:00.000Z
 description: >-
   Es difícil escribir sobre lo increíble que fue el año 2019 para Vitau sin
   mencionar lo fregón que fue para mi, pero aquí va la historia.
 featuredpost: false
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/dsc_6247.jpg
 tags:
   - salud
 ---
