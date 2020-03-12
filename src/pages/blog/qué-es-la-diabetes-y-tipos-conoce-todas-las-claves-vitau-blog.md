@@ -6,10 +6,10 @@ date: 2020-03-12T13:15:03.176Z
 description: >-
   La diabetes es una enfermedad crónica causada por la incapacidad del páncreas
   de crear la suficiente cantidad de insulina que el cuerpo necesita.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/que-es-la-diabetes-y-tipos.jpg
 tags:
-  - a
+  - ''
 ---
 La diabetes es una enfermedad crónica causada por la incapacidad del páncreas de crear la suficiente cantidad de insulina que el cuerpo necesita, o en el caso de que sí la fabrique, la hace de una calidad inferior. 
 
