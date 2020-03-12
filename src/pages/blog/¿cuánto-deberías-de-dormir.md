@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
-title: ¿Cuánto deberías de dormir?
+title: ¿Cuánto deberías de dormir? | Vitau Blog
 url: cuanto-dormir
 date: 2020-01-22T19:00:00.000Z
 description: >-
-  ¿Cuánto tiempo dormiste anoche? ¿Y antier? Contar cuanto tiempo dormiste puede
-  ser que no sea una prioridad, sin embargo, teniendo tus ciclos completos de
-  sueño impacta en tu salud en muchas maneras.
+  Tal vez no lo sepas, pero la cantidad de sueño podría afectar a tu peso y al
+  metabolismo afectando al funcionamiento de tu cerebro y estado de animo.
+  ¡Descubre más!
 featuredpost: false
 featuredimage: /img/woman-sleeping-935777.jpg
 tags:
-  - medio ambiente
+  - ''
 ---
 ¿Cuánto tiempo dormiste anoche? ¿Y antier? Contar cuanto tiempo dormiste puede ser que no sea una prioridad, sin embargo, teniendo tus ciclos completos de sueño impacta en tu salud en muchas maneras.
 
@@ -22,11 +22,7 @@ No tienes hora fija de ir a la cama.
 
 Sabemos que no tienes el tiempo de hacer la matemática y la investigación de cuanto deberías dormir, así que te pasamos la calculación de tu sueño. 
 
-
-
-Depende tu edad, son las horas que debes dormir: 
-
-
+## Depende tu edad, son las horas que debes dormir: 
 
 * Recién nacidos hasta 3 meses: 14 a 17 horas.
 * 4 a 11 meses: 12 a 15 horas.
