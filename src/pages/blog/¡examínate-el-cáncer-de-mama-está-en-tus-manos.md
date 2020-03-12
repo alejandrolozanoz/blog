@@ -1,18 +1,16 @@
 ---
 templateKey: blog-post
-title: ¡Examínate! El cáncer de mama está en tus manos.
+title: ¡Examínate! El cáncer de mama está en tus manos | Vitau Blog
 url: cancer-de-mama
 date: 2019-11-20T19:14:00.000Z
-description: >
-  El cáncer de mama, es la principal causa de muerte por tumores malignos en
-  mujeres en México. Pequeñas acciones como llevar una buena alimentación, hacer
-  ejercicio con regularidad y evitar el consumo de sustancias nocivas pueden
-  resultar en cambios notables en la salud y ayudan a prevenir no solo el cáncer
-  sino muchas otras enfermedades. 
+description: >-
+  El cáncer de mama, es la principal causa de muerte por tumores en mujeres en
+  México. Llevar una buena alimentación y hacer ejercicio con regularidad ayudan
+  a prevenirlo.
 featuredpost: false
 featuredimage: /img/promo-para_azul.jpg
 tags:
-  - cancer
+  - ''
 ---
 ## ¿Qué es el Cáncer de Mama?
 
