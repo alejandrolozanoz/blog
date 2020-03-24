@@ -85,6 +85,18 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Vitau Blog',
+        start_url: '/',
+        background_color: '#3C2F5B',
+        theme_color: '#EBFF29',
+        display: 'standalone',
+        icon: 'src/img/favicon.png',
+        crossOrigin: 'use-credentials',
+      },
+    },
     // {
     //   resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
     //   options: {
