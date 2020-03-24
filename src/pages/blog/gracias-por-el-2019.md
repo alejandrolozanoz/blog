@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Gracias por el 2019
+title: Gracias por el 2019 | Vitau Blog
 url: gracias-por-el-2019
 date: 2020-01-03T19:00:00.000Z
 description: >-
@@ -9,13 +9,11 @@ description: >-
 featuredpost: false
 featuredimage: /img/dsc_6247.jpg
 tags:
-  - salud
+  - ''
 ---
 Es difícil escribir sobre lo increíble que fue el año 2019 para Vitau sin mencionar lo fregón que fue para mi, pero aquí va la historia.
 
-
-
-Esto fue lo que paso en este año:
+## Esto fue lo que paso en este año:
 
 Alejandro y yo nos asociamos, comenzamos Vitau y levantamos nuestra ronda pre-semilla de inversionistas mexicanos en febrero.
 
@@ -27,11 +25,7 @@ En agosto levantamos una ronda semilla de inversionistas internacionales.
 
 En octubre, noviembre y diciembre vivimos un buen crecimiento en ventas.
 
-
-
 “Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.” - Proverbio Africano
-
-
 
 Aprendimos muchas cosas en estos meses, aquí están los tres aprendizajes que me gustaría compartir con todos:
 
@@ -41,13 +35,9 @@ Todos necesitan ayuda. Dado el rápido crecimiento y los desconocidos retos, es 
 
 Una comunicación clara, frecuente y honesta hace maravillas. Entendimos que para sacarle provecho a estos héroes, teníamos que tener una buena comunicación entre nosotros. Por eso es que todos los meses enviamos un reporte (pueden encontrar la estructura aquí). Como en todas las buenas relaciones, una comunicación clara, frecuente y honesta es clave. 
 
-
-
 “Siempre estoy haciendo cosas que no puedo hacer, así es como aprendo a hacerlas.” - Pablo Picasso
 
-
-
-Queremos, con todo nuestro corazón, dar las gracias a:
+## Queremos, con todo nuestro corazón, dar las gracias a:
 
 Nuestros pacientes y aliados. Gracias por confiar en nosotros con su salud y la salud de sus seres queridos.
 
@@ -59,14 +49,8 @@ Nuestras familias y amigos. Gracias por creer en nosotros y sus palabras de alie
 
 Aquellos que hablaron mal de nosotros. Gracias por darnos otra razon para cumplir nuestras metas y hacernos saber porque es que podemos fracasar.
 
-
-
 “La mejor manera de predecir el futuro es crearlo.” - Peter Drucker
 
-
-
 Esperemos y trabajemos por un mejor 2020. Un año lleno de trabajo, largas jornadas y estrés. Un año que también nos dará muchos buenos momentos trabajando junto a personas que admiro, ayudando a nuestros pacientes a tener una mejor vida y sabiendo que nuestro trabajo realmente está creando un mejor futuro. Un futuro donde la salud es catalogada y tratada como un derecho universal, uno donde aquellos que se preocupan por su salud ya no tengan que preocuparse. Un futuro donde la salud es prioridad.
-
-
 
 \#healthmatters
