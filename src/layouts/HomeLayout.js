@@ -4,6 +4,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import useSiteMetadata from '../components/UseSiteMetadata'
 
+import 'normalize.css'
 import '../styles/app.scss'
 
 export default function HomeLayout({ children }) {

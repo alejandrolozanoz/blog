@@ -7,21 +7,23 @@ public_folder: /img
 
 site_url: https://blog.vitau.mx
 publish_mode: editorial_workflow
-logo_url: https://vitau.mx/static/media/logo.ede74271.svg
+logo_url: https://vitau-logos.s3-us-west-1.amazonaws.com/vitau-logo-fullcolor.svg
 
 collections:
   - name: "blog"
+    identifier_field: url
     label: "Blog"
-    folder: "src/pages/blog"
+    folder: "src/pages/blog/"
     create: true
-    slug: "{{slug}}"
+    slug: "{{category}}/{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Url", name: "url", widget: "string"}
+      - {label: "Custom Url", name: "url", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Category", name: "category", widget: "string"}
