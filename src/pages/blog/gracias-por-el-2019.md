@@ -9,7 +9,8 @@ description: >-
 featuredpost: false
 featuredimage: /img/dsc_6247.jpg
 tags:
-  - ''
+  - Compañía
+category: Compañía
 ---
 Es difícil escribir sobre lo increíble que fue el año 2019 para Vitau sin mencionar lo fregón que fue para mi, pero aquí va la historia.
 
