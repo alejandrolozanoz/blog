@@ -69,28 +69,28 @@ const Navbar = class extends React.Component {
               <a
                 target='_blank'
                 rel='noopener noreferrer'
-                href='https://instagram.com/vitaumedical'
+                href='https://instagram.com/vitau.mx'
               >
                 <FontAwesomeIcon icon={faInstagram} size='2x' />
               </a>
               <a
                 target='_blank'
                 rel='noopener noreferrer'
-                href='https://facebook.com/vitaumedical'
+                href='https://facebook.com/vitau.mx'
               >
                 <FontAwesomeIcon icon={faFacebook} size='2x' />
               </a>
               <a
                 target='_blank'
                 rel='noopener noreferrer'
-                href='https://twitter.com/vitaumedical'
+                href='https://twitter.com/farmaciavitau'
               >
                 <FontAwesomeIcon icon={faTwitter} size='2x' />
               </a>
               <a
                 target='_blank'
                 rel='noopener noreferrer'
-                href='https://linkedin.com/company/vitaumedical'
+                href='https://linkedin.com/company/vitaumx'
               >
                 <FontAwesomeIcon icon={faLinkedin} size='2x' />
               </a>

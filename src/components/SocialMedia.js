@@ -19,7 +19,7 @@ export default function SocialMedia(props) {
         className='socialMedia-icon'
         target='_blank'
         rel='noopener noreferrer'
-        href='https://instagram.com/vitaumedical'
+        href='https://instagram.com/vitau.mx'
       >
         <FontAwesomeIcon icon={faInstagram} />
       </a>
@@ -28,7 +28,7 @@ export default function SocialMedia(props) {
         className='socialMedia-icon'
         target='_blank'
         rel='noopener noreferrer'
-        href='https://facebook.com/vitaumedical'
+        href='https://facebook.com/vitau.mx'
       >
         <FontAwesomeIcon icon={faFacebookSquare} />
       </a>
