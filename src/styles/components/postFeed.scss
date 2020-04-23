@@ -14,7 +14,9 @@
     grid-template-columns: repeat(3, 1fr);
 
     .postPreview:nth-child(1),
-    .postPreview:nth-child(n + 4) {
+    .postPreview:nth-child(4), 
+    .postPreview:nth-child(5),
+    .postPreview:nth-child(8) {
       grid-column-end: span 2;
     }
   }

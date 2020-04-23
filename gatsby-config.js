@@ -122,6 +122,16 @@ module.exports = {
         // number (default to 1000); time to wait after scroll or route change
         // To be used when `delayLoad` is set to `true`
         delayLoadTime: 1000
+      },
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Vitau Blog',
+        start_url: '/',
+        background_color: '#3C2F5B',
+        theme_color: '#EBFF29',
+        display: 'standalone',
+        icon: 'src/img/favicon.png',
+        crossOrigin: 'use-credentials',
       }
     },
     // {
